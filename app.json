@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "902e4d0f-1abc-49cb-938e-588afb44f7ea"
+      }
+    },
+    "owner": "dickybudianto"
   }
 }
