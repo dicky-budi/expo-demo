@@ -13,7 +13,7 @@ export default function RootLayout() {
     <>
       <Stack>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="about" options={{ title: "About" }} />
+        <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="light" />
     </>
